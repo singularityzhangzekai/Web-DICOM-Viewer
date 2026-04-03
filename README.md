@@ -4,7 +4,9 @@ A customizable web-based medical imaging viewer built with **OHIF** and **Orthan
 
 ## Preview
 
-> Add your screenshots here
+<img width="1512" height="779" alt="viewer" src="https://github.com/user-attachments/assets/0356c795-7844-4204-9850-eef188017222" />
+<img width="1512" height="777" alt="orthanc" src="https://github.com/user-attachments/assets/ba97b7ec-88e9-490f-a195-0c0155e9c89f" />
+
 
 - Study List
 - Viewer Page
